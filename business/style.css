@@ -1,0 +1,16 @@
+.fundo{
+    
+    background-color: rgb(1, 1, 23);
+}
+.header{
+    color: whitesmoke;
+    padding: 3em, 23em, 40em ;
+    font-size: 50px;
+   
+}
+.imagem-cabeçalho{
+    height: 120px;
+    width: 120px;
+    
+
+}
